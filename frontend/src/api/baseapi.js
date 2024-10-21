@@ -2,7 +2,7 @@ import axios from "axios";
 
 // const API = axios.create({ baseURL: "https://csuite-production.up.railway.app" });
 const API = axios.create({
-  baseURL: "https://csuite-production.up.railway.app",
+  baseURL: "https://csuite-ui0f.onrender.com",
 });
 
 // user
